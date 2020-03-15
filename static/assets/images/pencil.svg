@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" viewBox="0 0 172 172">
+    <g fill="none" fill-rule="nonzero" stroke="none" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" stroke-dasharray="" stroke-dashoffset="0" font-family="none" font-weight="none" font-size="none" text-anchor="none" style="mix-blend-mode: normal">
+        <path d="M0,172v-172h172v172z" fill="none"></path>
+        <g>
+            <path d="M28.55522,103.91907l89.69493,-89.69806l39.52796,39.52658l-89.69493,89.69806z" fill="#ff9800"></path>
+            <path d="M28.66667,103.91667l-14.33333,53.75l53.75,-14.33333z" fill="#ffc107"></path>
+            <path d="M21.5,131.15l-7.16667,26.51667l26.51667,-7.16667z" fill="#455a64"></path>
+        </g>
+    </g>
+</svg>
