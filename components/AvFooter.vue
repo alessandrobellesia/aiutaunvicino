@@ -7,7 +7,13 @@
 				rel="noopener noreferrer"
 				target="_blank"
 				class="grey--text text--lighten-1"
-			>Licenza MIT</a>
+			>Licenza MIT</a>&nbsp;•&nbsp;
+			<a
+				href="https://github.com/alessandrobellesia/aiutaunvicino"
+				rel="noopener noreferrer"
+				target="_blank"
+				class="grey--text text--lighten-1"
+			>GitHub</a>
 			<br />
 			<div class="mb-4">Da un'idea di Giulia Pelizzardi ed Alessandro Bellesia</div>
 			<a href="/" rel="noopener noreferrer" class="grey--text text--lighten-1">Privacy Policy</a>

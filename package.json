@@ -2,6 +2,8 @@
   "name": "aiutaunvicino",
   "version": "1.0.0",
   "description": "Richiedi o fornisci aiuto ad un vicino di casa",
+  "repository": "https://github.com/alessandrobellesia/aiutaunvicino.git",
+  "license": "MIT",
   "author": "Alessanro Bellesia",
   "private": false,
   "scripts": {
