@@ -28,7 +28,7 @@ export default {
 	margin-left: auto;
 
 	@media (min-width: 960px) {
-		max-width: 900px;
+		width: 900px;
 	}
 }
 </style>
