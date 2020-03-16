@@ -21,14 +21,16 @@ export default {
 
 
 <style lang="scss">
-.container {
-	width: 100%;
-	padding: 12px;
-	margin-right: auto;
-	margin-left: auto;
+.v-application {
+	.container {
+		width: 100%;
+		padding: 12px;
+		margin-right: auto;
+		margin-left: auto;
 
-	@media (min-width: 960px) {
-		width: 900px;
+		@media (min-width: 960px) {
+			width: 900px;
+		}
 	}
 }
 </style>
