@@ -1,5 +1,8 @@
 export default {
-  mode: "universal",
+  mode: "spa",
+  generate: {
+    dir: "public"
+  },
   /*
    ** Headers of the page
    */

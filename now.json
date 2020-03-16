@@ -1,0 +1,16 @@
+{
+	"routes": [
+		{
+			"src": "/api/ask-for-help",
+			"dest": "/api/ask-for-help.js"
+		},
+		{
+			"src": "/api/provide-help",
+			"dest": "/api/provide-help.js"
+		},
+		{
+			"src": "/api/cities",
+			"dest": "/api/cities.js"
+		}
+	]
+}
