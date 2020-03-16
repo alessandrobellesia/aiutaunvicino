@@ -5,7 +5,7 @@
 			<v-container>
 				<h2>Come posso aiutare?</h2>
 				<div class="font-weight-light mb-3 mx-auto title text--darken-3 grey--text">
-					<p>Nel rispetto delle misure adottate del governo puoi intervenire in due modi.</p>
+					<p>Nel rispetto delle misure adottate dal governo puoi intervenire in due modi.</p>
 				</div>
 				<v-row>
 					<v-col cols="12" sm="6">
